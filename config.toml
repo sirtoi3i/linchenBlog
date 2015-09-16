@@ -1,4 +1,4 @@
 baseurl = "http://sirtoi3i.github.io/linchenBlog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-canonifyurls: true
+canonifyurls = true 
